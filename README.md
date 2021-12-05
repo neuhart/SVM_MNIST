@@ -14,3 +14,6 @@ preprocessing approaches and was able to score test accuracy rates significantly
 higher than the mean score of randomly assembled training sets.
 ## Insights and Findings
 Please look into my presentation slides (Slides_Seminararbeit_PN_final.pdf) summarising my project paper including my findings. For a more detailed explanation of my project please take a look at my project paper (SE_Optimization_PN_final.pdf).
+
+## Data
+The data set I used is available on kaggle (https://www.kaggle.com/damienbeneschi/mnist-eda-preprocessing-classifiers). I could not upload it here since I was only allowed to upload files with a maximum size of 25MB. 
