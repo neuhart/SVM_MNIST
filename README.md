@@ -1,5 +1,5 @@
 # SVM_MNIST
-
+## Abstract
 Statistical Classifiers like the support vector classifier or the k-nearest neighbour classifier have proven to be effective tools for classifying real-world data.
 In this assignment I would like to develop the main theory behind the Maximal
 Margin Classifier, the simplest support vector algorithm, and also introduce
@@ -12,3 +12,5 @@ accuracy. Furthermore, I tried to find small training sets, called super-trainer
 which give rise to particularly good test performances. Finally, I combined my
 preprocessing approaches and was able to score test accuracy rates significantly
 higher than the mean score of randomly assembled training sets.
+## Insights and Findings
+Please look into my presentation slides (Slides_Seminararbeit_PN_final.pdf) summarising my project paper including my findings. For a more detailed explanation of my project please take a look at my project paper (SE_Optimization_PN_final.pdf).
